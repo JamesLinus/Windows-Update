@@ -1519,3 +1519,6 @@ KB2862973
 2834886
 2718704
 2570947
+
+Security Update for Windows 7 for x64-based Systems 
+__(KB3000483)__ http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2015/01/windows6.1-kb3000483-x64_1a1352d47233733e0652f1a2998c3f66f3727a7b.cab
