@@ -1522,3 +1522,19 @@ KB2862973
 
 Security Update for Windows 7 for x64-based Systems 
 __(KB3000483)__ http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2015/01/windows6.1-kb3000483-x64_1a1352d47233733e0652f1a2998c3f66f3727a7b.cab
+
+Update for Internet Explorer 11 for Windows 7 for x64-based Systems (KB4016446)	
+
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2017/03/ie11-windows6.1-kb4016446-
+
+x64_8a253d6aa7448766c340f59a3952b2d2c8835da8.cab
+March, 2017 Preview of Monthly Quality Rollup for Windows 7 for x64-based Systems (KB4012218)	
+
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2017/03/windows6.1-kb4012218-
+
+x64_6cd8bcb7e9bd4a0218c05cd3e2d6535dff7c5f8c.cab
+Update for Windows 7 for x64-based Systems (KB4012864)	
+
+http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/uprl/2017/03/windows6.1-kb4012864-
+
+x64_cc19d18efd306d3eedcaedf3750d4cf06d7afd43.cab
