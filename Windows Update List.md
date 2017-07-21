@@ -1538,3 +1538,55 @@ Update for Windows 7 for x64-based Systems (KB4012864)
 http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/uprl/2017/03/windows6.1-kb4012864-
 
 x64_cc19d18efd306d3eedcaedf3750d4cf06d7afd43.cab
+
+
+
+
+2017-07 适用于基于 x64 的系统的 Windows 7 月度安全质量汇总（KB4025341）	http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2017/07/windows6.1-kb4025341-x64_8f9b1baacf04dd551be4d9ab6254f513ad1a3932.cab
+2017-07 适用于基于 x64 的系统的 Windows 7 仅安全性质量更新（KB4025337）	http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2017/07/windows6.1-kb4025337-x64_86dd9e1f9321f654a6a1aeb2fc57180990d0ca6b.cab
+2017-06 适用于基于 x64 的系统的 Windows 7 仅安全性质量更新（KB4022722）	http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2017/06/windows6.1-kb4022722-x64_c2b6ddb20ba13fd4d9543142b76669d4305e62b3.cab
+May, 2017 Security Only Update for .NET Framework 3.5.1, 4.5.2, 4.6, 4.6.1, 4.6.2 on Windows 7 and Windows Server 2008 R2 for x64 (KB4019108)	http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2017/04/ndp46-kb4014588-x64_924a413d7b285b2e5fe24fa80429d9746dc09045.exe
+May, 2017 Security and Quality Rollup for .NET Framework 3.5.1, 4.5.2, 4.6, 4.6.1, 4.6.2 on Windows 7 and Server 2008 R2 for x64 (KB4019112)	http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2017/04/ndp46-kb4014508-x64_bf8bc7d1d93ce7c4d2bb1df260b48829dedb56f1.exe
+2017 年 5 月，Windows 7 和 Server 2008 R2 上用于 .NET Framework 3.5.1、4.5.2、4.6、4.6.1、4.6.2 的质量汇总预览，适合基于 x64 的系统 (KB4019288)	http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2017/05/windows6.1-kb4014596-x64_1b72ddcf0de5e1383b48942a27950a898567ab1f.cab
+	http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2017/05/ndp46-kb4014606-x64_b1faabc946c109f63bae2807acdd76c4f1a0979f.exe
+用于基于 x64 的系统的 Windows 7 更新程序 (KB4019990)	http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2017/05/windows6.1-kb4019990-x64_bcc5a1d0e9afec8c01c745f7b88f511a3269bc21.cab
+用于基于 x64 的系统的 Windows 7 更新程序 (KB4020322)	http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/uprl/2017/06/windows6.1-kb4020322-x64_ff92616b459aa13630afba51b719444b31a4fafb.cab
+
+
+
+
+
+
+
+
+
+
+用于基于 x64 的系统的 Windows 7 更新程序 (KB3181988)	http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2016/08/windows6.1-kb3181988-x64_3e737a56e4443dd407c8fef984558fd4181eaaa9.cab
+用于基于 x64 的系统的 Windows 7 更新程序 (KB3172605)	http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2016/09/windows6.1-kb3172605-x64_5efe2e384c1699f7d31eea6ba1c9bc444e1c37fb.cab
+用于基于 x64 的系统的 Windows 7 更新程序 (KB3133977)	http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows6.1-kb3133977-x64_9a435bd72977a13e9767c915a1a53e29dca7eb5f.cab
+内核模式驱动程序框架 1.11 版更新，针对适用于基于 X64 系统的 Windows 7 (KB2685811)	http://wsus.ds.download.windowsupdate.com/msdownload/update/software/updt/2012/11/windows6.1-kb2685811-x64_cb247e49ab103f3e632efdc667255febd2894f45.cab
+用于基于 x64 的系统的 Windows 7 更新程序 (KB2985461)	http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2014/09/windows6.1-kb2985461-x64_4f50ccb9d381820c0900179dc5fe70536e13e8ba.cab
+用于基于 x64 的系统的 Windows 7 更新程序 (KB2773072)	http://wsus.ds.download.windowsupdate.com/msdownload/update/software/updt/2013/01/windows6.1-kb2773072-x64_e9d402227e865db6a4620ac975a6e9af5b4cf1d7.cab
+用于基于 x64 的系统的 Windows 7 更新程序 (KB2726535)	http://wsus.ds.download.windowsupdate.com/msdownload/update/software/updt/2013/01/windows6.1-kb2726535-x64_1a882d4028068b594b77d3a70371d8e82d755dec.cab
+用于基于 x64 的系统的 Windows 7 更新程序 (KB2908783)	http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2014/04/windows6.1-kb2908783-x64_cfe6933844514b85c005062e0238c6fd484e463c.cab
+用于基于 x64 的系统的 Windows 7 更新程序 (KB2843630)	http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2014/02/windows6.1-kb2843630-v3-x64_e29a8826987587dc80a04079f69bbf0d9205d76f.cab
+用于基于 x64 的系统的 Windows 7 更新程序 (KB2830477)	http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2013/11/windows6.1-kb2857650-x64_cb10934ef6dc457bd75e482d8b054a2e0a1da7db.cab
+用于基于 x64 的系统的 Windows 7 更新程序 (KB2852386)	http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2013/10/windows6.1-kb2852386-x64_1a8e910b6f88ddfb05a9d527a9feab1b8d0914f0.cab
+用于基于 x64 的系统的 Windows 7 更新程序 (KB2763523)	http://wsus.ds.download.windowsupdate.com/msdownload/update/software/updt/2012/11/windows6.1-kb2763523-x64_b2ac6a1e7cd376373476b30adf4a09758e80f8e3.cab
+用于基于 x64 的系统的 Windows 7 更新程序 (KB2750841)	http://wsus.ds.download.windowsupdate.com/msdownload/update/software/updt/2012/11/windows6.1-kb2750841-x64_a1331d9f3da49639bd4ad2bfba06e170e4cf6c8a.cab
+用于基于 x64 的系统的 Windows 7 更新程序 (KB2732059)	http://wsus.ds.download.windowsupdate.com/msdownload/update/software/updt/2012/09/windows6.1-kb2732059-v5-x64_33ddd03fd485e66874371d284ad5ae4b001c2cfe.cab
+用于基于 x64 的系统的 Windows 7 更新程序 (KB982018)	http://wsus.ds.download.windowsupdate.com/msdownload/update/software/updt/2011/04/windows6.1-kb982018-v3-x64_7d571fc890d15b9b53b4549390fbb1f248e80987.cab
+用于基于 x64 的系统的 Windows 7 安全更新程序 (KB3159398)	http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2016/05/windows6.1-kb3159398-x64_f5a5fc0671c36484ac8fa1622f6e0b2f643a7e0d.cab
+适用于 Windows 7 和 Windows Server 2008 R2 SP1 x64 上的 Microsoft .NET Framework 3.5.1 的安全更新程序 (KB3127220)	http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windows6.1-kb3127220-x64_0d68d4949ab1293218818c827d26204a2eec88de.cab
+用于基于 x64 的系统的 Windows 7 安全更新程序 (KB3071756)	http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windows6.1-kb3071756-x64_d1a0aafb1a16a7cd86fa22455839805305caaa80.cab
+用于基于 x64 的系统的 Windows 7 安全更新程序 (KB3031432)	http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2015/01/windows6.1-kb3004375-v3-x64_106d506f0b146279985ca204a0abf70423e00c68.cab
+用于基于 x64 的系统的 Windows 7 安全更新程序 (KB3000483)	http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2015/01/windows6.1-kb3004375-v3-x64_106d506f0b146279985ca204a0abf70423e00c68.cab
+用于基于 x64 的系统的 Windows 7 安全更新程序 (KB2984972)	http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2014/10/windows6.1-kb2984972-x64_289d1811c5b2a236f3b6c666d0ccb3b3106301b4.cab
+用于 x64 系统的 Windows 7 和 Windows Server 2008 R2 SP1 上的 Microsoft .NET Framework 3.5.1 的安全更新程序 (KB2972211)	http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2014/08/windows6.1-kb2972211-x64_1e338f9b0335d3b69a8fa9709e01d4712cd7039f.cab
+用于基于 x64 的系统的 Windows 7 安全更新程序 (KB2758857)	http://wsus.ds.download.windowsupdate.com/msdownload/update/software/secu/2012/10/windows6.1-kb2758857-x64_5e0aa18e88295276eb27aee6161c6a0ba3093d70.cab
+用于 x64 系统的 Windows 7 和 Windows Server 2008 R2 SP1 上的 Microsoft .NET Framework 3.5.1 的安全更新程序 (KB2937610)	http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2014/07/windows6.1-kb2937610-x64_8a49be20bd5a25d1aef7aaaa52f875bad0b64429.cab
+用于基于 x64 的系统的 Windows 7 安全更新程序 (KB2973351)	http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2014/06/windows6.1-kb2973351-x64_69e386b2997576d366447f5f6a4f64cef793dd89.cab
+用于 x64 系统的 Windows 7 和 Windows Server 2008 R2 SP1 上的 Microsoft .NET Framework 3.5.1 的安全更新程序 (KB2931356)	http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2014/04/windows6.1-kb2931356-x64_ea85faa6aaa3b28efb69c05375703bd3c5db2859.cab
+用于基于 x64 的系统的 Windows 7 安全更新程序 (KB2813430)	http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2013/05/windows6.1-kb2813430-x64_4b9efde2b43f5eb05b7c5b93791144614845ff2a.cab
+用于基于 x64 的系统的 Windows 7 更新程序 (KB3138612)	http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2016/02/windows6.1-kb3138612-x64_f0e6a2a82a72c2ac830680e6cd167b85e24e6b5f.cab
+用于基于 x64 的系统的 Windows 7 更新程序 (KB2868116)	http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2013/08/windows6.1-kb2868116-x64_ad85d333d96b48a1239cb78e0a91f7c9b2dde48b.cab
